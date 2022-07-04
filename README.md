@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Resume
+
+Interface componentized with ReactJS, and with reusable components, using the Github API to present certain user information, such as: The main information of your profile, your repositories and your starreds.
+
+The interface has ease of maintenance, decoupled and well-divided responsibilities.
+
+Project carried out through mentor classes [Matheus Benites](https://www.linkedin.com/in/omatheusbenites/?locale=en_US) to finish module IV - ReactJS of [DIO's Spread Fullstack Developer](https://www.dio.me) course.
+
+## Libraries
+- [axios](https://www.npmjs.com/package/axios);
+- [react-tabs](https://www.npmjs.com/package/react-tabs);
+- [styled-componentes](https://styled-components.com).
+
+## Images
+
+![demo-app](images/demo-app.gif)
+
+## My modifications:
+
+- Some changes to the interface margins;
+- Modifications to certain colors;
+- Using functions instead of arrow functions;
+- More changes may come in the future!
+
+## Original content
+
+You can see clicking [here](https://github.com/benits/github-api-interface)!
+
 ## Available Scripts
 
 In the project directory, you can run:
